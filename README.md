@@ -1,5 +1,5 @@
 # NevascaChatBot
-soon 
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lW-QCKw=/?moveToViewport=-3344,-379,8700,3851" frameBorder="0" scrolling="no" allowFullScreen></iframe>
+Confira e converse com o ChatBot que desolvi em: https://letsbot.altu.com.br/widgets/preview/d3fe01fe9b3902ec3de9bb274b97fe17
 
+Veja a documentação prévia do projeto que desolvi em: https://miro.com/app/board/o9J_lW-QCKw=/
