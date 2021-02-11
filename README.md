@@ -21,5 +21,6 @@ Segundo [Wappalyzer](https://www.wappalyzer.com/) as tecnologias utilazadas fora
 
 ## :musical_keyboard: How to use
 
-Para conversar com o ChatBot basta acessar: [Nevasca ChatBot](https://letsbot.altu.com.br/widgets/preview/d3fe01fe9b3902ec3de9bb274b97fe17) 
+Para conversar com o ChatBot basta acessar [Nevasca ChatBot](https://letsbot.altu.com.br/widgets/preview/d3fe01fe9b3902ec3de9bb274b97fe17) e interagir. 
+Existe um *easter egg*, será que você consegue encontrar?
 
