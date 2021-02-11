@@ -4,7 +4,7 @@
 ## :icecream: Preview
 Clique na imagem a baixo para ter acesso ao vídeo preview do projeto:
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/-Iy8ttSY4Iw)
+[![Watch the video](https://i.ibb.co/Ns9Q4dd/nevasca.png)](https://youtu.be/-Iy8ttSY4Iw)
 
 ## :crystal_ball: Technologies
 ## :musical_keyboard: How to use
