@@ -13,4 +13,4 @@ Veja a documentação prévia do projeto que desenvolvi em: https://miro.com/app
 
 
 <a href="https://youtu.be/-Iy8ttSY4Iw" target="_blank">
-<img align="center" alt="jaelson-livro" height="45" width="46" src="https://www.flaticon.com/svg/static/icons/svg/1903/1903162.svg" style="max=width:100%;">
+<img align="center" alt="foto mostrando o chatbot com link que direciona para o video preview no youtube" height="300" width="300" src="https://ibb.co/1d64JYw" style="max=width:100%;">
