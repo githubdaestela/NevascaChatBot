@@ -2,6 +2,8 @@
 
 ## :memo: About
 ## :icecream: Preview
+Clique na imagem a baixo para ter acesso ao vídeo preview do projeto:
+
 ## :crystal_ball: Technologies
 ## :musical_keyboard: How to use
 
@@ -9,8 +11,6 @@ Confira e converse com o ChatBot que desenvolvi em: https://letsbot.altu.com.br/
 
 Veja a documentação prévia do projeto que desenvolvi em: https://miro.com/app/board/o9J_lW-QCKw=/
 
-[<img src="https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
 
-## My Book:
-<a href="https://play.google.com/store/books/details/Obras_Educacionais?id=8jekDwAAQBAJ&hl=en_US" target="_blank">
+<a href="https://youtu.be/-Iy8ttSY4Iw" target="_blank">
 <img align="center" alt="jaelson-livro" height="45" width="46" src="https://www.flaticon.com/svg/static/icons/svg/1903/1903162.svg" style="max=width:100%;">
