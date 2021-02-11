@@ -1,9 +1,9 @@
 # NevascaChatBot
 
-## About
-## Preview
-## Technologies
-## How to use
+## :memo: About
+## :icecream: Preview
+## :crystal_ball: Technologies
+## :musical_keyboard: How to use
 
 Confira e converse com o ChatBot que desenvolvi em: https://letsbot.altu.com.br/widgets/preview/d3fe01fe9b3902ec3de9bb274b97fe17
 
