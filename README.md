@@ -4,7 +4,7 @@
 ## :icecream: Preview
 Clique na imagem a baixo para ter acesso ao vídeo preview do projeto:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Iy8ttSY4Iw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/-Iy8ttSY4Iw)
 
 ## :crystal_ball: Technologies
 ## :musical_keyboard: How to use
